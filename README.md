@@ -23,6 +23,6 @@ This image contains version 2.x and 3.x, the versions are nimmis/alpine-python:<
 
 | Tag    | Python Version | Container size |
 | ------ | ---------- | -------------- |
-| latest | latest (atm 1.6) | [![](https://badge.imagelayers.io/nimmis/alpine-python:latest.svg)](https://imagelayers.io/?images=nimmis/alpine-python:latest) |
+| latest | latest (atm 3.x) | [![](https://badge.imagelayers.io/nimmis/alpine-python:latest.svg)](https://imagelayers.io/?images=nimmis/alpine-python:latest) |
 | 2    | 2.7.11 | [![](https://badge.imagelayers.io/nimmis/alpine-python:2.svg)](https://imagelayers.io/?images=nimmis/alpine-python:2) |
 | 3  | 3.5.1 | [![](https://badge.imagelayers.io/nimmis/alpine-python:3.svg)](https://imagelayers.io/?images=nimmis/alpine-python:3) |
