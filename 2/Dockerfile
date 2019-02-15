@@ -1,7 +1,7 @@
-FROM nimmis/alpine-micro
+# Thanks to nimmis for creating useful stuff
+FROM robotfactory/alpine-micro
 
-MAINTAINER nimmis <kjell.havneskold@gmail.com>
-
+MAINTAINER robotfactory <robotshoelaces@gmail.com>
 
 RUN apk update && apk upgrade && \
     apk add python && \
